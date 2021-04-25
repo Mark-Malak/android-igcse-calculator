@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">IGCSE Score Calculator</string>
+    <string name="o_level">O-Level</string>
+    <string name="starolvl">A*</string>
+    <string name="no1">0</string>
+    <string name="aolvl">A</string>
+    <string name="no2">0</string>
+    <string name="balvl">B</string>
+    <string name="bolvl">B</string>
+    <string name="no3">0</string>
+    <string name="colvl">C</string>
+    <string name="no4">0</string>
+    <string name="as">AS</string>
+    <string name="staralvl">A*</string>
+    <string name="aas">A</string>
+    <string name="no5">0</string>
+    <string name="no11">0</string>
+    <string name="bas">B</string>
+    <string name="no6">0</string>
+    <string name="aalvl">A</string>
+    <string name="cas">C</string>
+    <string name="no7">0</string>
+    <string name="no10">0</string>
+    <string name="no9">0</string>
+    <string name="a_level">A-Level</string>
+    <string name="no8">0</string>
+    <string name="das">D</string>
+    <string name="calvl">C</string>
+    <string name="no12">0</string>
+    <string name="dalvl">D</string>
+    <string name="no13">0</string>
+    <string name="result">Result!</string>
+    <string name="with_factor">With factor</string>
+    <string name="calculate">Calculate!</string>
+    <string name="info">info</string>
+    <string name="settings">Tansik Websites</string>
+</resources>
